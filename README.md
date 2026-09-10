@@ -1,5 +1,7 @@
 # RDA Invest – Simulador de Investimentos em Fundos Imobiliários
 
+![Dashboard RDA Invest](images/dashboard.png)
+
 ## 📊 Sobre o projeto
 
 O RDA Invest é uma ferramenta desenvolvida em Excel com o objetivo de simular investimentos em Fundos de Investimento Imobiliário (FIIs).
