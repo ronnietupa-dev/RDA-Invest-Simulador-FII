@@ -66,12 +66,16 @@ O projeto utiliza a identidade visual da marca fictícia RDA Invest, com element
 ## 🖼️ Capturas de tela
 
 ### Dashboard principal
-
 ![Dashboard principal](images/dashboard.png)
 
-### Distribuição dos investimentos
+### Configurações
+![Configurações](images/configuracoes.png)
 
-![Distribuição dos investimentos](images/graficos.png)
+### Projeção de cenários
+![Projeção de cenários](images/cenarios.png)
+
+### Gráficos
+![Gráficos](images/graficos.png)
 
 ## 📁 Arquivos
 
